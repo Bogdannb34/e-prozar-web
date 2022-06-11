@@ -50,7 +50,9 @@ const ProductList = ({
           : selectedLanguage.addCartButton}
       </button>
       <button className="show_product__btn" onClick={() => {}}>
-        <Link to={`/product/${product.id}`}> Show product</Link>
+        <Link to={`/product/${product.id}`}>
+          {selectedLanguage.showProduct}
+        </Link>
       </button>
     </section>
   );

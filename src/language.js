@@ -9,6 +9,7 @@ let language = {
         invalidCoupon: "Invalid coupon",
         addCartButton: "Add to cart",
         removeCartButton: "Remove from cart",
+        showProduct: "Show Product",
         footerHeader: "We bring you only the best products that can be randomly generated!",
         footerDisclaimer: "Content from faker.js with images from Lorem Picsum"
     },
@@ -22,6 +23,7 @@ let language = {
         invalidCoupon: "Cupon invalid",
         addCartButton: "Adauga cos cumparaturi",
         removeCartButton: "Scoate cos cumparaturi",
+        showProduct: "Arata produs",
         footerHeader: "Va aducem cele mai bune produse generate aleator!",
         footerDisclaimer: "Continut generat cu faker.js si imagini din Lorem Picsum"
     }
