@@ -1,0 +1,43 @@
+.navbar__wrapper {
+  width: 100%;
+}
+
+.navi__list {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  list-style: none;
+  border-radius: 0.3rem;
+  box-shadow: 0.2em 0.2em 0.5em 0.2em rgba(0, 0, 0, 0.1);
+  height: 8vh;
+  background: rgb(238, 174, 202);
+  background: linear-gradient(
+    90deg,
+    rgba(238, 174, 202, 1) 0%,
+    rgba(148, 214, 233, 1) 100%
+  );
+}
+
+.navi__list li {
+  color: white;
+}
+
+.navi__list li:hover {
+  border-bottom: 0.3em solid white;
+}
+
+.navi__list li a {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: white;
+}
+
+.navi__list li:nth-child(1) a:hover,
+.navi__list li:nth-child(2) a:hover {
+  color: rgba(148, 214, 233, 1);
+}
+
+.navi__list li:nth-child(3) a:hover,
+.navi__list li:nth-child(4) a:hover {
+  color: rgba(238, 174, 202, 1);
+}

@@ -1,0 +1,16 @@
+.carousel-root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel.carousel-slider {
+  border-radius: 0.3em;
+  box-shadow: 0.2em 0.2em 0.5em 0.2em rgba(0, 0, 0, 0.1);
+}
+
+.thumbs {
+  display: flex;
+  justify-content: center;
+}

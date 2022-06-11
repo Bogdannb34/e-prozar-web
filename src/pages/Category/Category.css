@@ -1,0 +1,6 @@
+.show__products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-align: center;
+}
