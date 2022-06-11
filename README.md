@@ -1,6 +1,6 @@
-# e-prozar-web
+# e-prozar-web using ReactJS
 
-Small website with a group of random products / ReactJS practice
+Small website with a group of random products
 
 # Coffee mug full, coding mode on, let's create E-Prozar !
 
