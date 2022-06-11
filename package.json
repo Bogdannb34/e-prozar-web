@@ -28,6 +28,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://bogdannb34.github.io/e-prozar-web/",
   "browserslist": {
     "production": [
       ">0.2%",
